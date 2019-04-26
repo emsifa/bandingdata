@@ -44,7 +44,7 @@ Jika kalian buka URL tersebut, maka masing-masing URL akan menampilkan data JSON
 
 **KPU**
 
-```json
+```
 {
   "ts": "2019-04-26 06:15:04", // << waktu update
   "chart": {
@@ -71,7 +71,7 @@ Jika kalian buka URL tersebut, maka masing-masing URL akan menampilkan data JSON
 
 **Kawal Pemilu**
 
-```json
+```
 {
   "name": "CIPINANG MUARA", // << nama wilayah
   "parentNames": [          // << nama induk wilayah
@@ -107,7 +107,7 @@ Jika kalian buka URL tersebut, maka masing-masing URL akan menampilkan data JSON
         "sah": 245,
         "janggal": 0,
         "cakupan": 1,
-        "pas1": 102         // << vote paslon 01
+        "pas1": 102          // << vote paslon 01
       },
       "ts": 1555520804756,
       "c1": null
