@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","JULOK","BUKET MAKMU"],"regionIds":[0,1,671,718,753],"ts":1556169091,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":29,"kawalPemilu":29},"02":{"kpu":82,"kawalPemilu":82}},"childs":{"1":{"name":"001","ts":1556169091,"votes":{"01":{"kpu":29,"kawalPemilu":29},"02":{"kpu":82,"kawalPemilu":82}}}}}}

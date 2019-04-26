@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","MALUKU","KEPULAUAN ARU","SIR-SIR","GOMSEY"],"regionIds":[0,76096,76868,83843,76957],"ts":1556248731,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":187,"kawalPemilu":187},"02":{"kpu":18,"kawalPemilu":18}},"childs":{"1":{"name":"001","ts":1556248731,"votes":{"01":{"kpu":187,"kawalPemilu":187},"02":{"kpu":18,"kawalPemilu":18}}}}}}

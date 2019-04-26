@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","BANDA ALAM","JAMBO REUHAT"],"regionIds":[0,1,671,1063,1065],"ts":1556169228,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":146,"kawalPemilu":146}},"childs":{"1":{"name":"001","ts":1556169228,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":146,"kawalPemilu":146}}}}}}

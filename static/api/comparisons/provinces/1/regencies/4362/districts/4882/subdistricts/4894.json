@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","BIREUEN","KUALA","COT U SIBAK"],"regionIds":[0,1,4362,4882,4894],"ts":1556172875,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":150,"kawalPemilu":150}},"childs":{"1":{"name":"001","ts":1556172875,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":150,"kawalPemilu":150}}}}}}

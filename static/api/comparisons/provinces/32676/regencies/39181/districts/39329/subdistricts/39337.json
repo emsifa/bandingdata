@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","SEMARANG","BAWEN","SAMBAN"],"regionIds":[0,32676,39181,39329,39337],"ts":1556209576,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":193,"kawalPemilu":193},"02":{"kpu":37,"kawalPemilu":37}},"childs":{"1":{"name":"001","ts":1556209576,"votes":{"01":{"kpu":193,"kawalPemilu":193},"02":{"kpu":37,"kawalPemilu":37}}}}}}

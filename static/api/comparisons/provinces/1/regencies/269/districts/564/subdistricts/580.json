@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGGARA","KETAMBE","DATUK PINING"],"regionIds":[0,1,269,564,580],"ts":1556168967,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":47,"kawalPemilu":47},"02":{"kpu":146,"kawalPemilu":146}},"childs":{"1":{"name":"001","ts":1556168967,"votes":{"01":{"kpu":47,"kawalPemilu":47},"02":{"kpu":146,"kawalPemilu":146}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","BAITUSSALAM","BLANG KRUENG"],"regionIds":[0,1,1824,2391,2395],"ts":1556171049,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":172,"kawalPemilu":173}},"childs":{"2":{"name":"002","ts":1556171049,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":172,"kawalPemilu":173}}}}}}

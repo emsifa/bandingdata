@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","LABUHAN HAJI BARAT","SUAK LOKAN"],"regionIds":[0,1,2,222,229],"ts":1556168742,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":192,"kawalPemilu":191}},"childs":{"3":{"name":"003","ts":1556168742,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":192,"kawalPemilu":191}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA BARAT","BANDUNG","CIMAUNG","CIMAUNG"],"regionIds":[0,26141,27407,27512,27513],"ts":1556195761,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":42,"kawalPemilu":42},"02":{"kpu":187,"kawalPemilu":187}},"childs":{"1":{"name":"001","ts":1556195761,"votes":{"01":{"kpu":42,"kawalPemilu":42},"02":{"kpu":187,"kawalPemilu":187}}}}}}

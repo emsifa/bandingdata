@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","SUNGAI MAS","SIPOT"],"regionIds":[0,1,1492,1559,1569],"ts":1556170337,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":86,"kawalPemilu":86}},"childs":{"1":{"name":"001","ts":1556170337,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":86,"kawalPemilu":86}}}}}}

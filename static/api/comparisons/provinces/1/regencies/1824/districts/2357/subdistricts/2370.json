@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","SIMPANG TIGA","BLANG MIRO"],"regionIds":[0,1,1824,2357,2370],"ts":1556171036,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":17,"kawalPemilu":17},"02":{"kpu":157,"kawalPemilu":157}},"childs":{"1":{"name":"001","ts":1556171036,"votes":{"01":{"kpu":17,"kawalPemilu":17},"02":{"kpu":157,"kawalPemilu":157}}}}}}

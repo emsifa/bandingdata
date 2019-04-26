@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","KLUET TENGAH","MALAKA"],"regionIds":[0,1,2,190,195],"ts":1556167634,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":45,"kawalPemilu":45},"02":{"kpu":172,"kawalPemilu":172}},"childs":{"1":{"name":"001","ts":1556167634,"votes":{"01":{"kpu":45,"kawalPemilu":45},"02":{"kpu":172,"kawalPemilu":172}}}}}}

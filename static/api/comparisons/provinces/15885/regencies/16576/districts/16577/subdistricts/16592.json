@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAMBI","BATANGHARI","MERSAM","BUKIT KEMUNING"],"regionIds":[0,15885,16576,16577,16592],"ts":1556183505,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":103,"kawalPemilu":103},"02":{"kpu":43,"kawalPemilu":43}},"childs":{"1":{"name":"001","ts":1556183505,"votes":{"01":{"kpu":103,"kawalPemilu":103},"02":{"kpu":43,"kawalPemilu":43}}}}}}

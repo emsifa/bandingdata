@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KUTA MALAKA","LUBOK BUNI"],"regionIds":[0,1,1824,2341,2351],"ts":1556171013,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":150,"kawalPemilu":150}},"childs":{"1":{"name":"001","ts":1556171013,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":150,"kawalPemilu":150}}}}}}

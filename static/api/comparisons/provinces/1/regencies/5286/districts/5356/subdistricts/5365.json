@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH JAYA","SAMPOINIET","COT LANGSAT"],"regionIds":[0,1,5286,5356,5365],"ts":1556173297,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":82,"kawalPemilu":82}},"childs":{"1":{"name":"001","ts":1556173297,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":82,"kawalPemilu":82}}}}}}

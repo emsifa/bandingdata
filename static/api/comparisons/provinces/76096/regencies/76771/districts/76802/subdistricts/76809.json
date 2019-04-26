@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","MALUKU","SERAM BAGIAN BARAT","SERAM BARAT","ETY"],"regionIds":[0,76096,76771,76802,76809],"ts":1556248592,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":123,"kawalPemilu":123},"02":{"kpu":7,"kawalPemilu":7}},"childs":{"5":{"name":"005","ts":1556248592,"votes":{"01":{"kpu":123,"kawalPemilu":123},"02":{"kpu":7,"kawalPemilu":7}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","Luar Negeri","Senegal","Dakar","Dakar"],"regionIds":[0,-99,-990292,-990293,-990294],"ts":1556254388,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":7,"kawalPemilu":19},"02":{"kpu":1,"kawalPemilu":10}},"childs":{"1":{"name":"001","ts":1556254388,"votes":{"01":{"kpu":7,"kawalPemilu":19},"02":{"kpu":1,"kawalPemilu":10}}}}}}

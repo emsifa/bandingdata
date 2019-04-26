@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SINGKIL","SIMPANG KANAN","LAE NIPE"],"regionIds":[0,1,4233,4242,4255],"ts":1556172425,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":22,"kawalPemilu":22},"02":{"kpu":115,"kawalPemilu":115}},"childs":{"1":{"name":"001","ts":1556172425,"votes":{"01":{"kpu":22,"kawalPemilu":22},"02":{"kpu":115,"kawalPemilu":115}}}}}}

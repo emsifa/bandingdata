@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","PIDIE","DELIMA","KRUENG REUBEE"],"regionIds":[0,1,2452,2482,2492],"ts":1556171116,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":167,"kawalPemilu":167}},"childs":{"1":{"name":"001","ts":1556171116,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":167,"kawalPemilu":167}}}}}}

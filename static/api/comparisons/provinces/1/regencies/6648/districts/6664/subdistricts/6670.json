@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","KOTA SUBULUSSALAM","PENANGGALAN","PENUNTUNGAN"],"regionIds":[0,1,6648,6664,6670],"ts":1556174287,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":132,"kawalPemilu":132}},"childs":{"2":{"name":"002","ts":1556174287,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":132,"kawalPemilu":132}}}}}}

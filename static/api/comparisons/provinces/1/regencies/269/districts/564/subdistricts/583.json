@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGGARA","KETAMBE","JATI SARA"],"regionIds":[0,1,269,564,583],"ts":1556168971,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":52,"kawalPemilu":52},"02":{"kpu":118,"kawalPemilu":118}},"childs":{"1":{"name":"001","ts":1556168971,"votes":{"01":{"kpu":52,"kawalPemilu":52},"02":{"kpu":118,"kawalPemilu":118}}}}}}

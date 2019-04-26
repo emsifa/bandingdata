@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","SUMATERA UTARA","TAPANULI TENGAH","SITAHUIS","RAMPA"],"regionIds":[0,6728,7240,7376,7379],"ts":1556174866,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":128,"kawalPemilu":128},"02":{"kpu":6,"kawalPemilu":6}},"childs":{"1":{"name":"001","ts":1556174866,"votes":{"01":{"kpu":128,"kawalPemilu":128},"02":{"kpu":6,"kawalPemilu":6}}}}}}

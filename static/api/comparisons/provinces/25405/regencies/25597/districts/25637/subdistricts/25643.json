@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","KEPULAUAN RIAU","NATUNA","SUBI","PULAU KERDAU"],"regionIds":[0,25405,25597,25637,25643],"ts":1556193082,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":101,"kawalPemilu":101},"02":{"kpu":54,"kawalPemilu":54}},"childs":{"1":{"name":"001","ts":1556193082,"votes":{"01":{"kpu":101,"kawalPemilu":101},"02":{"kpu":54,"kawalPemilu":54}}}}}}

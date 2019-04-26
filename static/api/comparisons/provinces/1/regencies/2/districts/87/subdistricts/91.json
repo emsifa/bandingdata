@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","SAMADUA","GUNUNG KETEK"],"regionIds":[0,1,2,87,91],"ts":1556168556,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":182,"kawalPemilu":182}},"childs":{"1":{"name":"001","ts":1556168556,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":182,"kawalPemilu":182}}}}}}

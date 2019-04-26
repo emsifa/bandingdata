@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","GAYO LUES","PINING","LESTEN"],"regionIds":[0,1,5138,5211,5220],"ts":1556173209,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":77,"kawalPemilu":77},"02":{"kpu":74,"kawalPemilu":74}},"childs":{"1":{"name":"001","ts":1556173209,"votes":{"01":{"kpu":77,"kawalPemilu":77},"02":{"kpu":74,"kawalPemilu":74}}}}}}

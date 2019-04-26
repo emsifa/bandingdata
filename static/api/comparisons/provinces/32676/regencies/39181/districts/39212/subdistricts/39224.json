@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","SEMARANG","SUSUKAN","KENTENG"],"regionIds":[0,32676,39181,39212,39224],"ts":1556209407,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":184,"kawalPemilu":184},"02":{"kpu":17,"kawalPemilu":17}},"childs":{"1":{"name":"001","ts":1556209407,"votes":{"01":{"kpu":184,"kawalPemilu":184},"02":{"kpu":17,"kawalPemilu":17}}}}}}

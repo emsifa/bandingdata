@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","TAPAKTUAN","TEPI AIR"],"regionIds":[0,1,2,132,138],"ts":1556168611,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":18,"kawalPemilu":18},"02":{"kpu":130,"kawalPemilu":130}},"childs":{"1":{"name":"001","ts":1556168611,"votes":{"01":{"kpu":18,"kawalPemilu":18},"02":{"kpu":130,"kawalPemilu":130}}}}}}

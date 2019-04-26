@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","PATI","MARGOREJO","PENAMBUHAN"],"regionIds":[0,32676,38136,38393,38401],"ts":1556208257,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":29,"kawalPemilu":29}},"childs":{"8":{"name":"008","ts":1556208257,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":29,"kawalPemilu":29}}}}}}

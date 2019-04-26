@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","BATANG","WARUNGASEM","SIDOREJO"],"regionIds":[0,32676,40053,40261,40267],"ts":1556210899,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":115,"kawalPemilu":115},"02":{"kpu":30,"kawalPemilu":30}},"childs":{"10":{"name":"010","ts":1556210899,"votes":{"01":{"kpu":115,"kawalPemilu":115},"02":{"kpu":30,"kawalPemilu":30}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","RUSIP ANTARA","KUALA RAWA"],"regionIds":[0,1,1207,1307,1321],"ts":1556169638,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":78,"kawalPemilu":78},"02":{"kpu":22,"kawalPemilu":22}},"childs":{"2":{"name":"002","ts":1556169638,"votes":{"01":{"kpu":78,"kawalPemilu":78},"02":{"kpu":22,"kawalPemilu":22}}}}}}

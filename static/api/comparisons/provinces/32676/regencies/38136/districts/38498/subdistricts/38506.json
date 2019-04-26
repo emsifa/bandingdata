@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","PATI","CLUWAK","BLEBER"],"regionIds":[0,32676,38136,38498,38506],"ts":1556208401,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":175,"kawalPemilu":177},"02":{"kpu":18,"kawalPemilu":43}},"childs":{"1":{"name":"001","ts":1556208401,"votes":{"01":{"kpu":175,"kawalPemilu":177},"02":{"kpu":18,"kawalPemilu":43}}}}}}

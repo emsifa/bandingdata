@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","GRESIK","PANCENG","SIWALAN"],"regionIds":[0,42385,49656,49710,49713],"ts":1556221309,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":138,"kawalPemilu":138},"02":{"kpu":76,"kawalPemilu":76}},"childs":{"4":{"name":"004","ts":1556221309,"votes":{"01":{"kpu":138,"kawalPemilu":138},"02":{"kpu":76,"kawalPemilu":76}}}}}}

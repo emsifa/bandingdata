@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","SIMPANG TIGA","KRUENG MAK"],"regionIds":[0,1,1824,2357,2368],"ts":1556171033,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":123,"kawalPemilu":123}},"childs":{"1":{"name":"001","ts":1556171033,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":123,"kawalPemilu":123}}}}}}

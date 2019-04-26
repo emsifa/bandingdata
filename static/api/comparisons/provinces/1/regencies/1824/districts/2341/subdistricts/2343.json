@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KUTA MALAKA","LAM ARA CUT"],"regionIds":[0,1,1824,2341,2343],"ts":1556171010,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":237,"kawalPemilu":236}},"childs":{"1":{"name":"001","ts":1556171010,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":237,"kawalPemilu":236}}}}}}

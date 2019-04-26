@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","Luar Negeri","Ekuador","Quito","Quito"],"regionIds":[0,-99,-990702,-990703,-990704],"ts":1556254237,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":20,"kawalPemilu":26},"02":{"kpu":1,"kawalPemilu":9}},"childs":{"1":{"name":"001","ts":1556254237,"votes":{"01":{"kpu":20,"kawalPemilu":26},"02":{"kpu":1,"kawalPemilu":9}}}}}}

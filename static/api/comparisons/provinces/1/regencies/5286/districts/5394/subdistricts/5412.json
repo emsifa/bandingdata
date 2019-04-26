@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH JAYA","JAYA","LAMBAROH"],"regionIds":[0,1,5286,5394,5412],"ts":1556173311,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":92,"kawalPemilu":92}},"childs":{"1":{"name":"001","ts":1556173311,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":92,"kawalPemilu":92}}}}}}

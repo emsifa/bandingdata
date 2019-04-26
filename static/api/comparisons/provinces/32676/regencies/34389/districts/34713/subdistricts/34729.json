@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","PURWOREJO","PITURUH","BLEKATUK"],"regionIds":[0,32676,34389,34713,34729],"ts":1556204337,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":132,"kawalPemilu":132},"02":{"kpu":58,"kawalPemilu":58}},"childs":{"1":{"name":"001","ts":1556204337,"votes":{"01":{"kpu":132,"kawalPemilu":132},"02":{"kpu":58,"kawalPemilu":58}}}}}}

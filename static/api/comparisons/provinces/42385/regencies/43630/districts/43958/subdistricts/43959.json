@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","KEDIRI","KAYEN KIDUL","BAYE"],"regionIds":[0,42385,43630,43958,43959],"ts":1556215912,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":155,"kawalPemilu":155},"02":{"kpu":38,"kawalPemilu":38}},"childs":{"10":{"name":"010","ts":1556215912,"votes":{"01":{"kpu":155,"kawalPemilu":155},"02":{"kpu":38,"kawalPemilu":38}}}}}}

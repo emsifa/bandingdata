@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","BATANG","BATANG","SAMBONG"],"regionIds":[0,32676,40053,40239,40257],"ts":1556210885,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":100,"kawalPemilu":100},"02":{"kpu":86,"kawalPemilu":86}},"childs":{"16":{"name":"016","ts":1556210885,"votes":{"01":{"kpu":100,"kawalPemilu":100},"02":{"kpu":86,"kawalPemilu":86}}}}}}

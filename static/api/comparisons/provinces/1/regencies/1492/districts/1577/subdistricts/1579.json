@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA","PASI LUNAK"],"regionIds":[0,1,1492,1577,1579],"ts":1556170353,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":162,"kawalPemilu":162}},"childs":{"1":{"name":"001","ts":1556170353,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":162,"kawalPemilu":162}}}}}}

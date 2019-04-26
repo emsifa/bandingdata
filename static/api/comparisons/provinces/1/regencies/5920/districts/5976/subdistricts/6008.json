@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","BENER MERIAH","BUKIT","MELUEM"],"regionIds":[0,1,5920,5976,6008],"ts":1556173719,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":70,"kawalPemilu":70},"02":{"kpu":51,"kawalPemilu":51}},"childs":{"1":{"name":"001","ts":1556173719,"votes":{"01":{"kpu":70,"kawalPemilu":70},"02":{"kpu":51,"kawalPemilu":51}}}}}}

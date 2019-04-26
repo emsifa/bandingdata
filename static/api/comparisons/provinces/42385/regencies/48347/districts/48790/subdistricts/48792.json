@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","BOJONEGORO","GONDANG","JARI"],"regionIds":[0,42385,48347,48790,48792],"ts":1556220593,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":180,"kawalPemilu":180},"02":{"kpu":33,"kawalPemilu":33}},"childs":{"2":{"name":"002","ts":1556220593,"votes":{"01":{"kpu":180,"kawalPemilu":180},"02":{"kpu":33,"kawalPemilu":33}}}}}}

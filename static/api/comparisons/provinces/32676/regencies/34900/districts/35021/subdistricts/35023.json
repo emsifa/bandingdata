@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","WONOSOBO","KALIKAJAR","MUNGKUNG"],"regionIds":[0,32676,34900,35021,35023],"ts":1556204648,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":150,"kawalPemilu":150},"02":{"kpu":65,"kawalPemilu":65}},"childs":{"2":{"name":"002","ts":1556204648,"votes":{"01":{"kpu":150,"kawalPemilu":150},"02":{"kpu":65,"kawalPemilu":65}}}}}}

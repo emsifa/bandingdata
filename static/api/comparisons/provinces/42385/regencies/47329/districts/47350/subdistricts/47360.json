@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","NGANJUK","BERBEK","SUMBERWINDU"],"regionIds":[0,42385,47329,47350,47360],"ts":1556219366,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":143,"kawalPemilu":143},"02":{"kpu":57,"kawalPemilu":57}},"childs":{"1":{"name":"001","ts":1556219366,"votes":{"01":{"kpu":143,"kawalPemilu":143},"02":{"kpu":57,"kawalPemilu":57}}}}}}

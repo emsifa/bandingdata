@@ -1,0 +1,3 @@
+/crawler/vendor
+/crawler/storage/logs/*
+!/crawler/storage/logs/.gitkeep

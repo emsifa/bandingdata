@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","PEGASING","BERAWANG BARO"],"regionIds":[0,1,1207,1332,1334],"ts":1556169676,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":159,"kawalPemilu":159},"02":{"kpu":108,"kawalPemilu":108}},"childs":{"1":{"name":"001","ts":1556169676,"votes":{"01":{"kpu":159,"kawalPemilu":159},"02":{"kpu":108,"kawalPemilu":108}}}}}}

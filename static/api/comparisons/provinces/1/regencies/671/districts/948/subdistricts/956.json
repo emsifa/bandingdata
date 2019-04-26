@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","RANTAU PEUREULAK","BHOM LAMA"],"regionIds":[0,1,671,948,956],"ts":1556169171,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":29,"kawalPemilu":29},"02":{"kpu":180,"kawalPemilu":180}},"childs":{"1":{"name":"001","ts":1556169171,"votes":{"01":{"kpu":29,"kawalPemilu":29},"02":{"kpu":180,"kawalPemilu":180}}}}}}

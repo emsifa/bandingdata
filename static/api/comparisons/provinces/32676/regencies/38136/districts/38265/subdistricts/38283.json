@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","PATI","BATANGAN","PECANGAAN"],"regionIds":[0,32676,38136,38265,38283],"ts":1556208132,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":181,"kawalPemilu":181},"02":{"kpu":9,"kawalPemilu":9}},"childs":{"1":{"name":"001","ts":1556208132,"votes":{"01":{"kpu":181,"kawalPemilu":181},"02":{"kpu":9,"kawalPemilu":9}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","SELUMA","ULU TALO","TANJUNG AGUNG"],"regionIds":[0,20802,21702,21862,88029],"ts":1556189132,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":49,"kawalPemilu":49},"02":{"kpu":118,"kawalPemilu":118}},"childs":{"1":{"name":"001","ts":1556189132,"votes":{"01":{"kpu":49,"kawalPemilu":49},"02":{"kpu":118,"kawalPemilu":118}}}}}}

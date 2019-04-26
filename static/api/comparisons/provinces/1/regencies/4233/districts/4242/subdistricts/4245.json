@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SINGKIL","SIMPANG KANAN","KUTA KERANGAN"],"regionIds":[0,1,4233,4242,4245],"ts":1556172416,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":232,"kawalPemilu":232},"02":{"kpu":16,"kawalPemilu":16}},"childs":{"1":{"name":"001","ts":1556172416,"votes":{"01":{"kpu":232,"kawalPemilu":232},"02":{"kpu":16,"kawalPemilu":16}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA","ALUE BLANG"],"regionIds":[0,1,1492,1577,1597],"ts":1556170380,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":98,"kawalPemilu":98}},"childs":{"1":{"name":"001","ts":1556170380,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":98,"kawalPemilu":98}}}}}}

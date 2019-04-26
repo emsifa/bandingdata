@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","KLATEN","BAYAT","BELUK"],"regionIds":[0,32676,35862,35917,35926],"ts":1556205891,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":169,"kawalPemilu":169},"02":{"kpu":44,"kawalPemilu":44}},"childs":{"5":{"name":"005","ts":1556205891,"votes":{"01":{"kpu":169,"kawalPemilu":169},"02":{"kpu":44,"kawalPemilu":44}}}}}}

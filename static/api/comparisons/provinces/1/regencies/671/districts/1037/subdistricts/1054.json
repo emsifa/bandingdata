@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","IDI TUNONG","ALUE LHOK"],"regionIds":[0,1,671,1037,1054],"ts":1556169219,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":172,"kawalPemilu":172}},"childs":{"2":{"name":"002","ts":1556169219,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":172,"kawalPemilu":172}}}}}}

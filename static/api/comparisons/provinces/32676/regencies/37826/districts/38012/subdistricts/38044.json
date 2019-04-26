@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","REMBANG","REMBANG","SUKOHARJO"],"regionIds":[0,32676,37826,38012,38044],"ts":1556207911,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":109,"kawalPemilu":109},"02":{"kpu":49,"kawalPemilu":49}},"childs":{"2":{"name":"002","ts":1556207911,"votes":{"01":{"kpu":109,"kawalPemilu":109},"02":{"kpu":49,"kawalPemilu":49}}}}}}

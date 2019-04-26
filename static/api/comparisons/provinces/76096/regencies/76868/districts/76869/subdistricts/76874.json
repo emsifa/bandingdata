@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","MALUKU","KEPULAUAN ARU","PULAU-PULAU ARU","KOBRAUR"],"regionIds":[0,76096,76868,76869,76874],"ts":1556248648,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":90,"kawalPemilu":90},"02":{"kpu":2,"kawalPemilu":2}},"childs":{"1":{"name":"001","ts":1556248648,"votes":{"01":{"kpu":90,"kawalPemilu":90},"02":{"kpu":2,"kawalPemilu":2}}}}}}

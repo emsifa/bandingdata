@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","PIDIE","DELIMA","KRUENG COT"],"regionIds":[0,1,2452,2482,2517],"ts":1556171135,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":7,"kawalPemilu":7},"02":{"kpu":115,"kawalPemilu":115}},"childs":{"2":{"name":"002","ts":1556171135,"votes":{"01":{"kpu":7,"kawalPemilu":7},"02":{"kpu":115,"kawalPemilu":115}}}}}}

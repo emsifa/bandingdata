@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","MAGELANG","PAKIS","PAKIS"],"regionIds":[0,32676,35181,35444,35445],"ts":1556205301,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":52,"kawalPemilu":52},"02":{"kpu":55,"kawalPemilu":55}},"childs":{"14":{"name":"014","ts":1556205301,"votes":{"01":{"kpu":52,"kawalPemilu":52},"02":{"kpu":55,"kawalPemilu":55}}}}}}

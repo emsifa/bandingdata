@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","PAMEKASAN","PADEMAWU","DASOK"],"regionIds":[0,42385,50532,50551,50567],"ts":1556222064,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":55,"kawalPemilu":55},"02":{"kpu":176,"kawalPemilu":174}},"childs":{"9":{"name":"009","ts":1556222064,"votes":{"01":{"kpu":55,"kawalPemilu":55},"02":{"kpu":176,"kawalPemilu":174}}}}}}

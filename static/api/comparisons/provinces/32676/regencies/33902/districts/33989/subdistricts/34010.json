@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","KEBUMEN","KLIRONG","BUMIHARJO"],"regionIds":[0,32676,33902,33989,34010],"ts":1556203566,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":149,"kawalPemilu":149},"02":{"kpu":47,"kawalPemilu":47}},"childs":{"1":{"name":"001","ts":1556203566,"votes":{"01":{"kpu":149,"kawalPemilu":149},"02":{"kpu":47,"kawalPemilu":47}}}}}}

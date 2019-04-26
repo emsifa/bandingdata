@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","MAGELANG","KAJORAN","SIDOWANGI"],"regionIds":[0,32676,35181,35358,35383],"ts":1556205211,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":86,"kawalPemilu":86},"02":{"kpu":55,"kawalPemilu":55}},"childs":{"3":{"name":"003","ts":1556205211,"votes":{"01":{"kpu":86,"kawalPemilu":86},"02":{"kpu":55,"kawalPemilu":55}}}}}}

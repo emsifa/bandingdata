@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","SIMEULUE","TEUPAH BARAT","AWE SEUBAL"],"regionIds":[0,1,4086,4129,4141],"ts":1556172336,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":81,"kawalPemilu":81}},"childs":{"1":{"name":"001","ts":1556172336,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":81,"kawalPemilu":81}}}}}}

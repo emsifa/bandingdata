@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGGARA","TANOH ALAS","ALUKH NANGKE"],"regionIds":[0,1,269,632,645],"ts":1556169019,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":15,"kawalPemilu":15},"02":{"kpu":82,"kawalPemilu":82}},"childs":{"1":{"name":"001","ts":1556169019,"votes":{"01":{"kpu":15,"kawalPemilu":15},"02":{"kpu":82,"kawalPemilu":82}}}}}}

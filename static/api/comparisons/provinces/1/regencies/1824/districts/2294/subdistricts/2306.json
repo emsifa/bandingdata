@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KOTA JANTHO","JANTHO MAKMUR"],"regionIds":[0,1,1824,2294,2306],"ts":1556170989,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":242,"kawalPemilu":242}},"childs":{"1":{"name":"001","ts":1556170989,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":242,"kawalPemilu":242}}}}}}

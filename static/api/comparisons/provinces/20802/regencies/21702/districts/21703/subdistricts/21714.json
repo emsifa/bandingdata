@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","SELUMA","SUKARAJA","RIAK SIABUN"],"regionIds":[0,20802,21702,21703,21714],"ts":1556188864,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":177,"kawalPemilu":177},"02":{"kpu":56,"kawalPemilu":56}},"childs":{"1":{"name":"001","ts":1556188864,"votes":{"01":{"kpu":177,"kawalPemilu":177},"02":{"kpu":56,"kawalPemilu":56}}}}}}

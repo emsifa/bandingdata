@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","SAWANG","KUTA MEULIGOE"],"regionIds":[0,1,3205,3797,3803],"ts":1556172092,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":171,"kawalPemilu":171}},"childs":{"1":{"name":"001","ts":1556172092,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":171,"kawalPemilu":171}}}}}}

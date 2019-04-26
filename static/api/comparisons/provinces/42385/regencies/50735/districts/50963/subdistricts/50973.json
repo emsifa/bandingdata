@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","SUMENEP","BATU PUTIH","BANTELAN"],"regionIds":[0,42385,50735,50963,50973],"ts":1556222436,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":134,"kawalPemilu":134}},"childs":{"8":{"name":"008","ts":1556222436,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":134,"kawalPemilu":134}}}}}}

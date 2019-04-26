@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","NAGAN RAYA","TADU RAYA","BABAH ROT"],"regionIds":[0,1,5463,5671,5681],"ts":1556173463,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":27,"kawalPemilu":27},"02":{"kpu":113,"kawalPemilu":113}},"childs":{"2":{"name":"002","ts":1556173463,"votes":{"01":{"kpu":27,"kawalPemilu":27},"02":{"kpu":113,"kawalPemilu":113}}}}}}

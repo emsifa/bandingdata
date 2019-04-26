@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","KALIMANTAN TIMUR","PASER","LONG KALI","MARUAT"],"regionIds":[0,64111,64112,64207,64226],"ts":1556235519,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":53,"kawalPemilu":53},"02":{"kpu":57,"kawalPemilu":57}},"childs":{"1":{"name":"001","ts":1556235519,"votes":{"01":{"kpu":53,"kawalPemilu":53},"02":{"kpu":57,"kawalPemilu":57}}}}}}

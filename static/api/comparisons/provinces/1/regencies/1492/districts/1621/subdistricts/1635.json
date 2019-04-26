@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","SAMATIGA","KRUENG TINGGAI"],"regionIds":[0,1,1492,1621,1635],"ts":1556170427,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":170,"kawalPemilu":170}},"childs":{"1":{"name":"001","ts":1556170427,"votes":{"01":{"kpu":80,"kawalPemilu":80},"02":{"kpu":170,"kawalPemilu":170}}}}}}

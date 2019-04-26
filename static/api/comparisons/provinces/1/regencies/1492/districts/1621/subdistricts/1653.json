@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","SAMATIGA","UJONG NGA"],"regionIds":[0,1,1492,1621,1653],"ts":1556170451,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":31,"kawalPemilu":31},"02":{"kpu":205,"kawalPemilu":205}},"childs":{"1":{"name":"001","ts":1556170451,"votes":{"01":{"kpu":31,"kawalPemilu":31},"02":{"kpu":205,"kawalPemilu":205}}}}}}

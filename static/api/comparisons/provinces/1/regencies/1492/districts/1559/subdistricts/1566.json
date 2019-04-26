@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","SUNGAI MAS","DRIEN SIBAK"],"regionIds":[0,1,1492,1559,1566],"ts":1556170325,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":3,"kawalPemilu":3},"02":{"kpu":60,"kawalPemilu":60}},"childs":{"1":{"name":"001","ts":1556170325,"votes":{"01":{"kpu":3,"kawalPemilu":3},"02":{"kpu":60,"kawalPemilu":60}}}}}}

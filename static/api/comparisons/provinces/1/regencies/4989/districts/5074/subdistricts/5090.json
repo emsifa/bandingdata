@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT DAYA","KUALA BATEE","KEUDE BARO"],"regionIds":[0,1,4989,5074,5090],"ts":1556173061,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":199,"kawalPemilu":198}},"childs":{"1":{"name":"001","ts":1556173061,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":199,"kawalPemilu":198}}}}}}

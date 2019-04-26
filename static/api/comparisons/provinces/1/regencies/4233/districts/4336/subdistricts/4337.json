@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SINGKIL","SURO MAKMUR","SURO BARU"],"regionIds":[0,1,4233,4336,4337],"ts":1556172494,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":28,"kawalPemilu":28},"02":{"kpu":235,"kawalPemilu":235}},"childs":{"1":{"name":"001","ts":1556172494,"votes":{"01":{"kpu":28,"kawalPemilu":28},"02":{"kpu":235,"kawalPemilu":235}}}}}}

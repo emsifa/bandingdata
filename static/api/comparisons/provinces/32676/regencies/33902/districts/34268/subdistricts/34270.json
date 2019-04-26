@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","KEBUMEN","SEMPOR","SELOKERTO"],"regionIds":[0,32676,33902,34268,34270],"ts":1556203842,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":145,"kawalPemilu":145},"02":{"kpu":71,"kawalPemilu":71}},"childs":{"2":{"name":"002","ts":1556203842,"votes":{"01":{"kpu":145,"kawalPemilu":145},"02":{"kpu":71,"kawalPemilu":71}}}}}}

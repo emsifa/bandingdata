@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","PATI","JAKENAN","KEDUNGMULYO"],"regionIds":[0,32676,38136,38314,38315],"ts":1556208167,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":157,"kawalPemilu":157},"02":{"kpu":18,"kawalPemilu":18}},"childs":{"1":{"name":"001","ts":1556208167,"votes":{"01":{"kpu":157,"kawalPemilu":157},"02":{"kpu":18,"kawalPemilu":18}}}}}}

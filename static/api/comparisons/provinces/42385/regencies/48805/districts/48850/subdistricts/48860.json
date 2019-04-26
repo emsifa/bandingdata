@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","TUBAN","BANCAR","BANJAREJO"],"regionIds":[0,42385,48805,48850,48860],"ts":1556220663,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":156,"kawalPemilu":156},"02":{"kpu":49,"kawalPemilu":49}},"childs":{"13":{"name":"013","ts":1556220663,"votes":{"01":{"kpu":156,"kawalPemilu":156},"02":{"kpu":49,"kawalPemilu":49}}}}}}
