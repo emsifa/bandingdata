@@ -144,10 +144,10 @@ untuk dipecah menjadi bagian-bagian kecil supaya load website lebih cepat.
 Pada tahap ini proses yang dilakukan adalah:
 
 1. Memecah file `crawler/data/subdistricts.json` menjadi API:
-   * '/provinces.json' yang berisi data semua provinsi
-   * '/provinces/{provinceId}/regencies.json' yang berisi data kab/kota pada provinsi {provinceId}.
-   * '/provinces/{provinceId}/regencies/{regencyId}/districts.json' yang berisi data kecamatan pada provinsi {provinceId} dan kab/kota {regencyId}.
-   * '/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}/subdistricts.json' yang berisi data kelurahan pada provinsi {provinceId}, kab/kota {regencyId}, dan kecamatan {districtId}.
+   * `/provinces.json` yang berisi data semua provinsi
+   * `/provinces/{provinceId}/regencies.json` yang berisi data kab/kota pada provinsi {provinceId}.
+   * `/provinces/{provinceId}/regencies/{regencyId}/districts.json` yang berisi data kecamatan pada provinsi {provinceId} dan kab/kota {regencyId}.
+   * `/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}/subdistricts.json` yang berisi data kelurahan pada provinsi {provinceId}, kab/kota {regencyId}, dan kecamatan {districtId}.
 2. Memecah file `crawler/data/comparisons.json` menjadi API:
    * `/comparisons/all.json` data perbandingan secara keseluruhan (Nasional) beserta seluruh provinsi.
    * `/comparisons/provinces/{provinceId}.json` data perbandingan per provinsi beserta seluruh kab/kota di provinsi itu.
