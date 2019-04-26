@@ -8,7 +8,7 @@ antara web [KPU](https://pemilu2019.kpu.go.id) dengan web [Kawal Pemilu](https:/
 
 Bandingdata dibuat dengan tujuan antara lain:
 
-* Untuk mencari tahu di TPS mana saja **potensi** kesalahan inputan KPU.
+* Untuk mencari tahu di TPS mana saja **potensi** kesalahan inputan KPU terjadi.
 * Untuk melihat seberapa besar suara yang **berpotensi** hilang/bertambah pada masing-masing pasangan calon Pilpres.
 
 ## Bagaimana Cara Kerjanya?
