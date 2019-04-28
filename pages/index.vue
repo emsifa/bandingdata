@@ -6,9 +6,9 @@
           <li v-for="(region, i) in regionPaths" :key="i">
             <a
               v-if="i < regionPaths.length - 1"
-              @click.prevent="fetchComparisons(region.regionIds)"
               class="text-blue font-bold"
               href="#"
+              @click.prevent="fetchComparisons(region.regionIds)"
             >
               {{ i == 0 ? 'ALL' : region.name }}
             </a>
@@ -125,13 +125,6 @@ export default {
       class: 'bg-grey-lighter font-sans leading-normal tracking-normal'
     }
   },
-  computed: {
-    ...mapState(['comparisons']),
-    ...mapGetters(['regionPaths'])
-  },
-  mounted() {
-    this.fetchComparisons()
-  },
   filters: {
     // prettier-ignore
     number(number) {
@@ -141,6 +134,13 @@ export default {
     signed(number) {
       return number && number !== '0' && !number.match(/^-/) ? `+${number}` : number
     }
+  },
+  computed: {
+    ...mapState(['comparisons']),
+    ...mapGetters(['regionPaths'])
+  },
+  mounted() {
+    this.fetchComparisons()
   },
   methods: {
     ...mapActions(['fetchComparisons']),

@@ -1,10 +1,13 @@
 import pkg from './package'
 
-const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
-  router: {
-    base: '/bandingdata/'
-  }
-} : {}
+const routerBase =
+  process.env.DEPLOY_ENV === 'GH_PAGES'
+    ? {
+        router: {
+          base: '/bandingdata/'
+        }
+      }
+    : {}
 
 export default {
   mode: 'spa',
@@ -35,9 +38,7 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [
-    '~/plugins/vue-timeago'
-  ],
+  plugins: ['~/plugins/vue-timeago'],
 
   /*
    ** Nuxt.js modules
