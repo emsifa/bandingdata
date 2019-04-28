@@ -3,7 +3,7 @@
     <header class="shadow bg-white">
       <h1 class="title text-center">
         <!-- prettier-ignore -->
-        <img class="logo" src="/logo.svg" alt="bandingdata">
+        <img class="logo" :src="config.baseURL + '/logo.svg'" alt="bandingdata">
       </h1>
     </header>
     <about />
@@ -15,10 +15,14 @@
 
 <script>
 import About from '@/components/About'
+import { mapState } from 'vuex'
 
 export default {
   components: {
     About
+  },
+  computed: {
+    ...mapState(['config'])
   }
 }
 </script>
