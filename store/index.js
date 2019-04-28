@@ -1,17 +1,15 @@
 import Vuex from 'vuex'
 import axios from 'axios'
 
-const baseURL = process.env.DEPLOY_ENV === 'GH_PAGES' ? '/bandingdata' : ''
-
 const api = axios.create({
-  baseURL: baseURL + '/api'
+  baseURL: (process.env.baseURL || '') + '/api'
 })
 
 // prettier-ignore
 const createStore = () => new Vuex.Store({
   state: () => ({
     config: {
-      baseURL: baseURL
+      baseURL: process.env.baseURL || ''
     },
     shownAbout: false,
     comparisons: {

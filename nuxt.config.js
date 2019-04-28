@@ -11,6 +11,9 @@ const routerBase =
 
 export default {
   mode: 'spa',
+  env: {
+    baseURL: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/bandingdata' : ''
+  },
 
   /*
    ** Headers of the page
