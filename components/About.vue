@@ -15,51 +15,35 @@
           <div v-if="shownAbout" class="container mx-auto">
             <div class="wrapper p-6">
               <p>
-                <em>Bandingdata</em> adalah situs yang dibuat khusus untuk menampilkan informasi
-                perbandingan inputan formulir C1 pada pilpres 2019 antara website
-                <a href="https://pemilu2019.kpu.go.id" class="text-orange" target="_blank">KPU</a>
-                dengan
-                <a href="https://www.kawalpemilu.org" class="text-orange" target="_blank">Kawal Pemilu</a>.
-                <em>Bandingdata</em> tidak berafiliasi dengan siapapun. Data yang ditampilkan pada <em>Bandingdata</em> diambil
-                melalui teknik <em>crawling</em> ke website KPU dan website Kawal Pemilu.
+                Bandingdata adalah situs yang dibuat untuk menampilkan informasi
+                perbandingan inputan real count berbasiskan formulir C1
+                pada 2 website, yakni
+                <a href="https://pemilu2019.kpu.go.id" class="text-orange-light" target="_blank">KPU</a>
+                dan
+                <a href="https://www.kawalpemilu.org" class="text-orange-light" target="_blank">Kawal Pemilu</a>.
               </p>
               <p>
-                <em>Bandingdata</em> dibuat berdasarkan keresahan masyarakat, khususnya di media sosial
+                Bandingdata dibuat berdasarkan keresahan masyarakat, khususnya di media sosial
                 yang seringkali menemukan kesalahan input formulir C1 pada website KPU. Berdasarkan keresahan tersebut
                 Bandingdata dibuat untuk mempermudah masyarakat menemukan kesalahan-kesalahan inputan C1 pada website KPU
                 dengan cara membandingkannya dengan data pada website Kawal Pemilu.
               </p>
               <p>
-                Diharapkan melalui informasi yang ditampilkan pada Bandingdata, awareness masyarakat untuk memperhatikan
-                data real count pada website KPU semakin meningkat. Serta diharapkan masyarakat menjadi
-                aktif dalam 'mengingatkan' KPU untuk memeriksa, sekaligus mengubah datanya jika memang benar terdapat kesalahan.
+                Tujuan dari bandingdata antara lain:
               </p>
+              <ul>
+                <li>Untuk mencari tahu di TPS mana saja potensi kesalahan inputan KPU terjadi.</li>
+                <li>Untuk melihat seberapa besar suara yang berpotensi hilang/bertambah pada masing-masing pasangan calon Pilpres.</li>
+              </ul>
+              <br>
               <p>
                 Source code dan data Bandingdata bersifat terbuka, sehingga siapapun dapat memeriksa kode Bandingdata,
                 serta dapat memeriksa riwayat perubahan kode sekaligus data pada Bandingdata.
               </p>
-              <h2 class="text-orange"><strong>Apa itu Kawal Pemilu?</strong></h2>
               <p>
-                Kawal Pemilu adalah proyek urun daya (crowdsourcing) netizen
-                pro data Indonesia yang didirikan tahun 2014 untuk menjaga suara rakyat
-                di Pemilihan Umum melalui penggunaan teknologi untuk melakukan real count secara cepat dan akurat.
+                Untuk lebih detail tentang cara kerja Bandingdata, kamu dapat lihat pada
+                halaman repository Bandingdata di <a class="text-orange-light" href="https://github.com/emsifa/bandingdata">https://github.com/emsifa/bandingdata</a>.
               </p>
-              <p>
-                Kawal Pemilu dipilih karena banyaknya kontributor, serta keterbukaannya terhadap data C1 mereka.
-                Kawal Pemilu juga dipilih karena siapapun (termasuk kamu) dapat berpartisipasi untuk menginput formulir C1 disana.
-                Sehingga diharapkan dapat meminimalisir kecurigaan masyarakat terkait keberpihakan.
-              </p>
-
-              <h2 class="text-orange"><strong>Cara Kerja</strong></h2>
-              <p>
-                Bandingdata bekerja dengan 2 buah kode yang berjalan terpisah.
-                Aplikasi pertama adalah Crawler, sedangkan aplikasi kedua adalah Website yang sedang kamu lihat ini.
-                Alur data diambil sampai dengan tampil pada halaman ini adalah sebagai berikut:
-              </p>
-              <ol>
-                <li>Crawler melakukan crawling untuk mengambil data voting paslon 01 dan 02 pada website KPU dan Kawal Pemilu di seluruh TPS se-Indonesia.</li>
-                <li>Setelah selesai melakukan crawling, karena data cukup besar, crawler melakukan post-processing data supaya </li>
-              </ol>
             </div>
           </div>
         </transition>
@@ -130,7 +114,7 @@ export default {
   @apply px-2;
   @apply py-1;
   @apply border;
-  @apply border-grey;
+  @apply border-grey-light;
   @apply bg-white;
   @apply text-grey-dark;
   font-size: 0.8em;
