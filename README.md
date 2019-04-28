@@ -141,24 +141,20 @@ Data pada step ini akan disimpan di file `crawler/data/comparisons.json`.
 Karena ukuran file data cukup besar untuk di load pada website, maka data yang sebelumnya di-*crawling* diproses
 untuk dipecah menjadi bagian-bagian kecil supaya load website lebih cepat.
 
-Pada tahap ini proses yang dilakukan adalah:
+Pada tahap ini proses yang dilakukan adalah memecah file `crawler/data/comparisons.json` menjadi API:
 
-1. Memecah file `crawler/data/subdistricts.json` menjadi API:
-   * `/provinces.json` yang berisi data semua provinsi
-   * `/provinces/{provinceId}/regencies.json` yang berisi data kab/kota pada provinsi {provinceId}.
-   * `/provinces/{provinceId}/regencies/{regencyId}/districts.json` yang berisi data kecamatan pada provinsi {provinceId} dan kab/kota {regencyId}.
-   * `/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}/subdistricts.json` yang berisi data kelurahan pada provinsi {provinceId}, kab/kota {regencyId}, dan kecamatan {districtId}.
-2. Memecah file `crawler/data/comparisons.json` menjadi API:
-   * `/comparisons/all.json` data perbandingan secara keseluruhan (Nasional) beserta seluruh provinsi.
-   * `/comparisons/provinces/{provinceId}.json` data perbandingan per provinsi beserta seluruh kab/kota di provinsi itu.
-   * `/comparisons/provinces/{provinceId}/regencies/{regencyId}.json` data perbandingan per kab/kota beserta seluruh kecamatan di kab/kota itu.
-   * `/comparisons/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}.json` data perbandingan per kecamatan beserta seluruh kelurahan di kecamatan itu.
-   * `/comparisons/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}/subdistricts/{subdistrictId}.json` data perbandingan per kelurahan beserta seluruh TPS pada kelurahan itu.
+* `/comparisons/all.json` data perbandingan secara keseluruhan (Nasional) beserta seluruh provinsi.
+* `/comparisons/provinces/{provinceId}.json` data perbandingan per provinsi beserta seluruh kab/kota di provinsi itu.
+* `/comparisons/provinces/{provinceId}/regencies/{regencyId}.json` data perbandingan per kab/kota beserta seluruh kecamatan di kab/kota itu.
+* `/comparisons/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}.json` data perbandingan per kecamatan beserta seluruh kelurahan di kecamatan itu.
+* `/comparisons/provinces/{provinceId}/regencies/{regencyId}/districts/{districtId}/subdistricts/{subdistrictId}.json` data perbandingan per kelurahan beserta seluruh TPS pada kelurahan itu.
 
 #### 4. Menampilkan di Website
 
-> Work in Progress
+Website Bandingdata dibuat menggunakan Nuxt.js (framework Vue.js).
+Sedangkan untuk hostingnya menggunakan platform gratis dari [_Github Pages_](https://pages.github.com/).
 
-## Development
+Static API yang sebelumnya digenerate pada tahap 3 akan ditempatkan pada folder `static/api` yang nantinya jika di-_build_
+oleh Nuxt.js, file-file tersebut akan disalin ke direktori `dist/api`. File _json_ pada direktori tersebut nantinya akan di-_consume_ oleh website berdasarkan interaksi user.
 
-> Work in Progress
+Lalu direktori `dist` inilah yang akan digunakan oleh _Github Pages_.
