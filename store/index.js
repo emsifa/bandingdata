@@ -1,6 +1,9 @@
 import Vuex from 'vuex'
 import axios from 'axios'
 
+/* eslint-disable no-console */
+console.log('Base URL', JSON.stringify(process.env.baseURL))
+
 const api = axios.create({
   baseURL: (process.env.baseURL || '') + '/api'
 })

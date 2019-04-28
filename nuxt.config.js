@@ -1,7 +1,9 @@
 import pkg from './package'
 
+const isDeployGithub = process.env.DEPLOY_ENV === 'GH_PAGES'
+
 const routerBase =
-  process.env.DEPLOY_ENV === 'GH_PAGES'
+  isDeployGithub
     ? {
         router: {
           base: '/bandingdata/'
@@ -11,8 +13,9 @@ const routerBase =
 
 export default {
   mode: 'spa',
+
   env: {
-    baseURL: process.env.DEPLOY_ENV === 'GH_PAGES' ? '/bandingdata' : ''
+    baseURL: isDeployGithub ? '/bandingdata' : ''
   },
 
   /*
