@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SINGKIL","SIMPANG KANAN","KAIN GOLONG"],"regionIds":[0,1,4233,4242,4244],"ts":1556172415,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":99,"kawalPemilu":99},"02":{"kpu":134,"kawalPemilu":134}},"childs":{"1":{"name":"001","ts":1556172415,"votes":{"01":{"kpu":99,"kawalPemilu":99},"02":{"kpu":134,"kawalPemilu":134}}}}}}

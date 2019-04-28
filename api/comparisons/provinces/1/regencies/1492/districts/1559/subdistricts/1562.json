@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","SUNGAI MAS","KAJEUNG"],"regionIds":[0,1,1492,1559,1562],"ts":1556170313,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":7,"kawalPemilu":7},"02":{"kpu":178,"kawalPemilu":178}},"childs":{"1":{"name":"001","ts":1556170313,"votes":{"01":{"kpu":7,"kawalPemilu":7},"02":{"kpu":178,"kawalPemilu":178}}}}}}

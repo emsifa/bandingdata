@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","LABUHAN HAJI BARAT","TUTONG"],"regionIds":[0,1,2,222,226],"ts":1556168739,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":208,"kawalPemilu":208}},"childs":{"2":{"name":"002","ts":1556168739,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":208,"kawalPemilu":208}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","KAUR","PADANG GUCI HULU","MANAU IX I"],"regionIds":[0,20802,21492,21690,21695],"ts":1556188848,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":64,"kawalPemilu":64},"02":{"kpu":99,"kawalPemilu":99}},"childs":{"1":{"name":"001","ts":1556188848,"votes":{"01":{"kpu":64,"kawalPemilu":64},"02":{"kpu":99,"kawalPemilu":99}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","IDI TUNONG","ALUE KUMBANG M"],"regionIds":[0,1,671,1037,1053],"ts":1556169218,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":8,"kawalPemilu":8},"02":{"kpu":126,"kawalPemilu":126}},"childs":{"1":{"name":"001","ts":1556169218,"votes":{"01":{"kpu":8,"kawalPemilu":8},"02":{"kpu":126,"kawalPemilu":126}}}}}}

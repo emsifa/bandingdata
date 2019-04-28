@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","SIMPANG TIGA","LAMJAMEE LAMKRAK"],"regionIds":[0,1,1824,2357,2375],"ts":1556171038,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":137,"kawalPemilu":137}},"childs":{"1":{"name":"001","ts":1556171038,"votes":{"01":{"kpu":13,"kawalPemilu":13},"02":{"kpu":137,"kawalPemilu":137}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","ARONGAN LAMBALEK","ARONGAN"],"regionIds":[0,1,1492,1672,1673],"ts":1556170474,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":37,"kawalPemilu":37},"02":{"kpu":132,"kawalPemilu":132}},"childs":{"1":{"name":"001","ts":1556170474,"votes":{"01":{"kpu":37,"kawalPemilu":37},"02":{"kpu":132,"kawalPemilu":132}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA TIMUR","LEUBOK PANYANG"],"regionIds":[0,1,1492,1778,1780],"ts":1556170586,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":89,"kawalPemilu":89}},"childs":{"1":{"name":"001","ts":1556170586,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":89,"kawalPemilu":89}}}}}}

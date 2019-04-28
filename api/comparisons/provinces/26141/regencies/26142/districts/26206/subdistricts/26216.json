@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA BARAT","BOGOR","JONGGOL","BENDUNGAN"],"regionIds":[0,26141,26142,26206,26216],"ts":1556193993,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":44,"kawalPemilu":44},"02":{"kpu":177,"kawalPemilu":177}},"childs":{"1":{"name":"001","ts":1556193993,"votes":{"01":{"kpu":44,"kawalPemilu":44},"02":{"kpu":177,"kawalPemilu":177}}}}}}

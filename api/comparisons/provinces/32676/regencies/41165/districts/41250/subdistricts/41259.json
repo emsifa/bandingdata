@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","BREBES","TONJONG","PURBAYASA"],"regionIds":[0,32676,41165,41250,41259],"ts":1556212079,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":67,"kawalPemilu":67},"02":{"kpu":77,"kawalPemilu":77}},"childs":{"1":{"name":"001","ts":1556212079,"votes":{"01":{"kpu":67,"kawalPemilu":67},"02":{"kpu":77,"kawalPemilu":77}}}}}}

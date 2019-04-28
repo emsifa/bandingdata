@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","MOJOKERTO","GONDANG","PADI"],"regionIds":[0,42385,46678,46699,46715],"ts":1556218724,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":169,"kawalPemilu":169},"02":{"kpu":81,"kawalPemilu":81}},"childs":{"3":{"name":"003","ts":1556218724,"votes":{"01":{"kpu":169,"kawalPemilu":169},"02":{"kpu":81,"kawalPemilu":81}}}}}}

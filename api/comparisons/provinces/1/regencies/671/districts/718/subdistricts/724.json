@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TIMUR","JULOK","SEUNEUBOK RAMBONG"],"regionIds":[0,1,671,718,724],"ts":1556169065,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":4,"kawalPemilu":4},"02":{"kpu":95,"kawalPemilu":95}},"childs":{"1":{"name":"001","ts":1556169065,"votes":{"01":{"kpu":4,"kawalPemilu":4},"02":{"kpu":95,"kawalPemilu":95}}}}}}

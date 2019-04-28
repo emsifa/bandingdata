@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","BANDA BARO","COT JABET"],"regionIds":[0,1,3205,4069,4071],"ts":1556172272,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":245,"kawalPemilu":245}},"childs":{"1":{"name":"001","ts":1556172272,"votes":{"01":{"kpu":6,"kawalPemilu":6},"02":{"kpu":245,"kawalPemilu":245}}}}}}

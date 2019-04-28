@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA BARAT","BANDUNG","KERTASARI","CIHAWUK"],"regionIds":[0,26141,27407,27595,27601],"ts":1556195879,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":33,"kawalPemilu":33},"02":{"kpu":181,"kawalPemilu":181}},"childs":{"1":{"name":"001","ts":1556195879,"votes":{"01":{"kpu":33,"kawalPemilu":33},"02":{"kpu":181,"kawalPemilu":181}}}}}}

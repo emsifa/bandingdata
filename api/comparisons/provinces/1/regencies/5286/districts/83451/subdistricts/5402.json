@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH JAYA","INDRA JAYA","MUKHAN"],"regionIds":[0,1,5286,83451,5402],"ts":1556173335,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":24,"kawalPemilu":24},"02":{"kpu":211,"kawalPemilu":211}},"childs":{"1":{"name":"001","ts":1556173335,"votes":{"01":{"kpu":24,"kawalPemilu":24},"02":{"kpu":211,"kawalPemilu":211}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA TIMUR","GUNONG PANYANG"],"regionIds":[0,1,1492,1778,1803],"ts":1556170614,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":4,"kawalPemilu":4},"02":{"kpu":38,"kawalPemilu":38}},"childs":{"1":{"name":"001","ts":1556170614,"votes":{"01":{"kpu":4,"kawalPemilu":4},"02":{"kpu":38,"kawalPemilu":38}}}}}}

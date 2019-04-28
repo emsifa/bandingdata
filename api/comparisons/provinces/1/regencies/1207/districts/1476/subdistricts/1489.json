@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","LUT TAWAR","TOWEREN ANTARA"],"regionIds":[0,1,1207,1476,1489],"ts":1556170033,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":44,"kawalPemilu":44},"02":{"kpu":128,"kawalPemilu":128}},"childs":{"1":{"name":"001","ts":1556170033,"votes":{"01":{"kpu":44,"kawalPemilu":44},"02":{"kpu":128,"kawalPemilu":128}}}}}}

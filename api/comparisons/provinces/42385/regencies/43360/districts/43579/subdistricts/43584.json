@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","BLITAR","DOKO","GENENGAN"],"regionIds":[0,42385,43360,43579,43584],"ts":1556215487,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":21,"kawalPemilu":21}},"childs":{"1":{"name":"001","ts":1556215487,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":21,"kawalPemilu":21}}}}}}

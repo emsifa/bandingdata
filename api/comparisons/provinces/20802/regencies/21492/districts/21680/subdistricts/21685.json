@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","KAUR","PADANG GUCI HILIR","AIR KERING"],"regionIds":[0,20802,21492,21680,21685],"ts":1556188839,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":49,"kawalPemilu":49},"02":{"kpu":73,"kawalPemilu":73}},"childs":{"1":{"name":"001","ts":1556188839,"votes":{"01":{"kpu":49,"kawalPemilu":49},"02":{"kpu":73,"kawalPemilu":73}}}}}}

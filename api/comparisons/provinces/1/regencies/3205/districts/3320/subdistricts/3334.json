@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","LHOKSUKON","BLANG"],"regionIds":[0,1,3205,3320,3334],"ts":1556171750,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":202,"kawalPemilu":202}},"childs":{"3":{"name":"003","ts":1556171750,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":202,"kawalPemilu":202}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","PASIE RAJA","KAMPUNG BARU"],"regionIds":[0,1,2,161,165],"ts":1556168630,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":88,"kawalPemilu":88}},"childs":{"1":{"name":"001","ts":1556168630,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":88,"kawalPemilu":88}}}}}}

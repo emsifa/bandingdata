@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","GRESIK","MANYAR","ROOMO"],"regionIds":[0,42385,49656,49842,49865],"ts":1556221460,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":130,"kawalPemilu":130},"02":{"kpu":81,"kawalPemilu":81}},"childs":{"2":{"name":"002","ts":1556221460,"votes":{"01":{"kpu":130,"kawalPemilu":130},"02":{"kpu":81,"kawalPemilu":81}}}}}}

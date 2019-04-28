@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","SAWANG","SIKULAT"],"regionIds":[0,1,2,116,117],"ts":1556168590,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":234,"kawalPemilu":234}},"childs":{"1":{"name":"001","ts":1556168590,"votes":{"01":{"kpu":5,"kawalPemilu":5},"02":{"kpu":234,"kawalPemilu":234}}}}}}

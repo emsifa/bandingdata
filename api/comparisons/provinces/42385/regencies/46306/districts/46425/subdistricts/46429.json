@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","SIDOARJO","CANDI","BALONGGABUS"],"regionIds":[0,42385,46306,46425,46429],"ts":1556218426,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":173,"kawalPemilu":173},"02":{"kpu":62,"kawalPemilu":62}},"childs":{"1":{"name":"001","ts":1556218426,"votes":{"01":{"kpu":173,"kawalPemilu":173},"02":{"kpu":62,"kawalPemilu":62}}}}}}

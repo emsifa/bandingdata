@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KOTA COT GLIE","LAMPAKUK"],"regionIds":[0,1,1824,2308,2309],"ts":1556170991,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":25,"kawalPemilu":25},"02":{"kpu":223,"kawalPemilu":223}},"childs":{"1":{"name":"001","ts":1556170991,"votes":{"01":{"kpu":25,"kawalPemilu":25},"02":{"kpu":223,"kawalPemilu":223}}}}}}

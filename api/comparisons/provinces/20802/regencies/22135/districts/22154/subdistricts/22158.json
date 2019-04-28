@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","KEPAHIANG","UJAN MAS","TANJUNG ALAM"],"regionIds":[0,20802,22135,22154,22158],"ts":1556189564,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":26,"kawalPemilu":28},"02":{"kpu":96,"kawalPemilu":96}},"childs":{"2":{"name":"002","ts":1556189564,"votes":{"01":{"kpu":26,"kawalPemilu":28},"02":{"kpu":96,"kawalPemilu":96}}}}}}

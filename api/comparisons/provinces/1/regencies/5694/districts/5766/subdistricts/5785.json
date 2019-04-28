@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TAMIANG","KARANG BARU","KEBUN MEDANG ARA"],"regionIds":[0,1,5694,5766,5785],"ts":1556173583,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":143,"kawalPemilu":143}},"childs":{"1":{"name":"001","ts":1556173583,"votes":{"01":{"kpu":19,"kawalPemilu":19},"02":{"kpu":143,"kawalPemilu":143}}}}}}

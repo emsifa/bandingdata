@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","PIDIE","GRONG-GRONG","NICAH"],"regionIds":[0,1,2452,3148,3159],"ts":1556171547,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":189,"kawalPemilu":189}},"childs":{"1":{"name":"001","ts":1556171547,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":189,"kawalPemilu":189}}}}}}

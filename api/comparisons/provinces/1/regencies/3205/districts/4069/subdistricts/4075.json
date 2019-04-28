@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","BANDA BARO","ALUE KEUREUNYAI"],"regionIds":[0,1,3205,4069,4075],"ts":1556172275,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":167,"kawalPemilu":167}},"childs":{"1":{"name":"001","ts":1556172275,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":167,"kawalPemilu":167}}}}}}

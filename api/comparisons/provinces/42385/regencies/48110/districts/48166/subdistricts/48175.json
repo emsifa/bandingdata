@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TIMUR","NGAWI","GENENG","KERSIKAN"],"regionIds":[0,42385,48110,48166,48175],"ts":1556219998,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":180,"kawalPemilu":165},"02":{"kpu":53,"kawalPemilu":48}},"childs":{"1":{"name":"001","ts":1556219998,"votes":{"01":{"kpu":180,"kawalPemilu":165},"02":{"kpu":53,"kawalPemilu":48}}}}}}

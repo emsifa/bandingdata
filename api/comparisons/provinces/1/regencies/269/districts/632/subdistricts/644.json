@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGGARA","TANOH ALAS","STAMBUL JAYA"],"regionIds":[0,1,269,632,644],"ts":1556169017,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":32,"kawalPemilu":32},"02":{"kpu":226,"kawalPemilu":226}},"childs":{"1":{"name":"001","ts":1556169017,"votes":{"01":{"kpu":32,"kawalPemilu":32},"02":{"kpu":226,"kawalPemilu":226}}}}}}

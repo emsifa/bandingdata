@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","BENGKULU","MUKOMUKO","IPUH","TANJUNG JAYA"],"regionIds":[0,20802,21885,21925,21934],"ts":1556189218,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":142,"kawalPemilu":142},"02":{"kpu":129,"kawalPemilu":129}},"childs":{"1":{"name":"001","ts":1556189218,"votes":{"01":{"kpu":142,"kawalPemilu":142},"02":{"kpu":129,"kawalPemilu":129}}}}}}

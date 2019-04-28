@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA TIMUR","SEUNEUBOK DALAM"],"regionIds":[0,1,1492,1778,1801],"ts":1556170612,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":15,"kawalPemilu":15},"02":{"kpu":30,"kawalPemilu":30}},"childs":{"1":{"name":"001","ts":1556170612,"votes":{"01":{"kpu":15,"kawalPemilu":15},"02":{"kpu":30,"kawalPemilu":30}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA","JAWI"],"regionIds":[0,1,1492,1577,1610],"ts":1556170395,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":172,"kawalPemilu":172}},"childs":{"1":{"name":"001","ts":1556170395,"votes":{"01":{"kpu":10,"kawalPemilu":10},"02":{"kpu":172,"kawalPemilu":172}}}}}}

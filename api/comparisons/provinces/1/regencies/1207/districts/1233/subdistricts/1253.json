@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","SILIH NARA","REREMAL"],"regionIds":[0,1,1207,1233,1253],"ts":1556169544,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":39,"kawalPemilu":39},"02":{"kpu":89,"kawalPemilu":89}},"childs":{"2":{"name":"002","ts":1556169544,"votes":{"01":{"kpu":39,"kawalPemilu":39},"02":{"kpu":89,"kawalPemilu":89}}}}}}

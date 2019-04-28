@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","KUTE PANANG","TAPAK MOGE"],"regionIds":[0,1,1207,1440,1450],"ts":1556169930,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":153,"kawalPemilu":153},"02":{"kpu":76,"kawalPemilu":76}},"childs":{"1":{"name":"001","ts":1556169930,"votes":{"01":{"kpu":153,"kawalPemilu":153},"02":{"kpu":76,"kawalPemilu":76}}}}}}

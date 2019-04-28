@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA","PANTON"],"regionIds":[0,1,1492,1577,1611],"ts":1556170397,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":104,"kawalPemilu":104}},"childs":{"1":{"name":"001","ts":1556170397,"votes":{"01":{"kpu":16,"kawalPemilu":16},"02":{"kpu":104,"kawalPemilu":104}}}}}}

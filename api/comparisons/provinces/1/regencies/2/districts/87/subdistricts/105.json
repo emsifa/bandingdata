@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","SAMADUA","SUAQ HULU"],"regionIds":[0,1,2,87,105],"ts":1556168572,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":10,"kawalPemilu":11},"02":{"kpu":190,"kawalPemilu":186}},"childs":{"1":{"name":"001","ts":1556168572,"votes":{"01":{"kpu":10,"kawalPemilu":11},"02":{"kpu":190,"kawalPemilu":186}}}}}}

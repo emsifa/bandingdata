@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","KENDAL","PATEAN","WIROSARI"],"regionIds":[0,32676,39746,39794,39798],"ts":1556210168,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":154,"kawalPemilu":154},"02":{"kpu":30,"kawalPemilu":30}},"childs":{"1":{"name":"001","ts":1556210168,"votes":{"01":{"kpu":154,"kawalPemilu":154},"02":{"kpu":30,"kawalPemilu":30}}}}}}

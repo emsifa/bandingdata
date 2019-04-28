@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","SULAWESI SELATAN","LUWU TIMUR","BURAU","KALATIRI"],"regionIds":[0,69268,72190,72258,85805],"ts":1556243500,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":82,"kawalPemilu":82},"02":{"kpu":87,"kawalPemilu":87}},"childs":{"1":{"name":"001","ts":1556243500,"votes":{"01":{"kpu":82,"kawalPemilu":82},"02":{"kpu":87,"kawalPemilu":87}}}}}}

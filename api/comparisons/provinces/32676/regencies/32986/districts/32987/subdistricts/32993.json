@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","JAWA TENGAH","BANYUMAS","LUMBIR","CIDORA"],"regionIds":[0,32676,32986,32987,32993],"ts":1556202474,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":45,"kawalPemilu":45}},"childs":{"1":{"name":"001","ts":1556202474,"votes":{"01":{"kpu":120,"kawalPemilu":120},"02":{"kpu":45,"kawalPemilu":45}}}}}}

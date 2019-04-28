@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","BIES","LENGA"],"regionIds":[0,1,1207,1295,1304],"ts":1556169621,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":92,"kawalPemilu":92},"02":{"kpu":106,"kawalPemilu":105}},"childs":{"1":{"name":"001","ts":1556169621,"votes":{"01":{"kpu":92,"kawalPemilu":92},"02":{"kpu":106,"kawalPemilu":105}}}}}}

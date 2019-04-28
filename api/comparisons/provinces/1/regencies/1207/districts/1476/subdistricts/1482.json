@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH TENGAH","LUT TAWAR","GUNUNG SUKU"],"regionIds":[0,1,1207,1476,1482],"ts":1556170020,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":62,"kawalPemilu":62},"02":{"kpu":106,"kawalPemilu":106}},"childs":{"1":{"name":"001","ts":1556170020,"votes":{"01":{"kpu":62,"kawalPemilu":62},"02":{"kpu":106,"kawalPemilu":106}}}}}}

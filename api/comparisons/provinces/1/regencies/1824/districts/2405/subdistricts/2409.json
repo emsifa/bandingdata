@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KRUENG BARONA JAYA","LAMPERMEI"],"regionIds":[0,1,1824,2405,2409],"ts":1556171062,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":28,"kawalPemilu":28},"02":{"kpu":195,"kawalPemilu":195}},"childs":{"1":{"name":"001","ts":1556171062,"votes":{"01":{"kpu":28,"kawalPemilu":28},"02":{"kpu":195,"kawalPemilu":195}}}}}}

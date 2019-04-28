@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","GAYO LUES","TERIPE JAYA","SETUL"],"regionIds":[0,1,5138,5275,5279],"ts":1556173261,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":116,"kawalPemilu":116},"02":{"kpu":63,"kawalPemilu":63}},"childs":{"1":{"name":"001","ts":1556173261,"votes":{"01":{"kpu":116,"kawalPemilu":116},"02":{"kpu":63,"kawalPemilu":63}}}}}}

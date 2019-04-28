@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","SIMPANG TIGA","ATEUK LAMPUOT"],"regionIds":[0,1,1824,2357,2359],"ts":1556171021,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":2,"kawalPemilu":2},"02":{"kpu":123,"kawalPemilu":123}},"childs":{"1":{"name":"001","ts":1556171021,"votes":{"01":{"kpu":2,"kawalPemilu":2},"02":{"kpu":123,"kawalPemilu":123}}}}}}

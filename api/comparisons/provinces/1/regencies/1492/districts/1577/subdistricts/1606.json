@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BARAT","WOYLA","ALUE PANYANG"],"regionIds":[0,1,1492,1577,1606],"ts":1556170392,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":122,"kawalPemilu":122}},"childs":{"1":{"name":"001","ts":1556170392,"votes":{"01":{"kpu":12,"kawalPemilu":12},"02":{"kpu":122,"kawalPemilu":122}}}}}}

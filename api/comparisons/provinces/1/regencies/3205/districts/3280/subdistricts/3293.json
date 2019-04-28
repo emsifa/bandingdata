@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","KUTA MAKMUR","BLANG RIEK"],"regionIds":[0,1,3205,3280,3293],"ts":1556171709,"tpsDiffCount":1,"tpsCount":1,"votes":{"01":{"kpu":16,"kawalPemilu":20},"02":{"kpu":163,"kawalPemilu":166}},"childs":{"2":{"name":"002","ts":1556171709,"votes":{"01":{"kpu":16,"kawalPemilu":20},"02":{"kpu":163,"kawalPemilu":166}}}}}}

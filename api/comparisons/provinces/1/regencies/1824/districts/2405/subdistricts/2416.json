@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH BESAR","KRUENG BARONA JAYA","RUMPET"],"regionIds":[0,1,1824,2405,2416],"ts":1556171070,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":18,"kawalPemilu":18},"02":{"kpu":199,"kawalPemilu":199}},"childs":{"1":{"name":"001","ts":1556171070,"votes":{"01":{"kpu":18,"kawalPemilu":18},"02":{"kpu":199,"kawalPemilu":199}}}}}}

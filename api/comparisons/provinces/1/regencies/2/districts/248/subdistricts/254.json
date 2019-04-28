@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH SELATAN","KOTA BAHAGIA","UJONG GUNONG CUT"],"regionIds":[0,1,2,248,254],"ts":1556168767,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":75,"kawalPemilu":75}},"childs":{"1":{"name":"001","ts":1556168767,"votes":{"01":{"kpu":9,"kawalPemilu":9},"02":{"kpu":75,"kawalPemilu":75}}}}}}

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","SULAWESI TENGAH","TOJO UNA-UNA","TOGEAN","KOLOLIO"],"regionIds":[0,67393,69089,69104,69112],"ts":1556240050,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":89,"kawalPemilu":89},"02":{"kpu":77,"kawalPemilu":77}},"childs":{"1":{"name":"001","ts":1556240050,"votes":{"01":{"kpu":89,"kawalPemilu":89},"02":{"kpu":77,"kawalPemilu":77}}}}}}

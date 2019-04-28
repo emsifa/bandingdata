@@ -1,0 +1,1 @@
+{"status":"ok","data":{"regionNames":["IDN","ACEH","ACEH UTARA","PIRAK TIMUR","BEURACAN RATA"],"regionIds":[0,1,3205,4033,4038],"ts":1556172249,"tpsDiffCount":0,"tpsCount":1,"votes":{"01":{"kpu":2,"kawalPemilu":2},"02":{"kpu":30,"kawalPemilu":30}},"childs":{"1":{"name":"001","ts":1556172249,"votes":{"01":{"kpu":2,"kawalPemilu":2},"02":{"kpu":30,"kawalPemilu":30}}}}}}
