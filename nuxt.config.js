@@ -1,5 +1,11 @@
 import pkg from './package'
 
+const routerBase = process.env.DEPLOY_ENV === 'GH_PAGES' ? {
+  router: {
+    base: '/bandingdata/'
+  }
+} : {}
+
 export default {
   mode: 'spa',
 
@@ -66,5 +72,7 @@ export default {
         })
       }
     }
-  }
+  },
+
+  ...routerBase
 }
